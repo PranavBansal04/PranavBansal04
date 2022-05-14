@@ -66,7 +66,9 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 <a href="http://www.github.com/pranavbansal04"><img src="https://github-readme-stats.vercel.app/api?username=pranavbansal04&show_icons=true&hide=issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="pranavbansal04's GitHub stats" /></a>
 
 <b>Top Repositories</b>
+
 <!-- MAKE SURE TO ADD THE RESPOSITORY NAMES IN LOWERCASE OTHERWISE THE API FAILS TO FETCH THE DESCRIPTIONS -->
+
 <div width="100%" align="center">
 
   <a href="https://github.com/pranavbansal04/ai-final-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbansal04&repo=ai-final-project&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
