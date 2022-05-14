@@ -79,20 +79,6 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 
 </div>
   
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
   
 <div width="100%" align="center">
 
@@ -102,7 +88,10 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 
 </div>
 
+
 <!-- ### Support Me -->
+
+# Support Me
 
 <a href="https://www.buymeacoffee.com/pranavbansal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
