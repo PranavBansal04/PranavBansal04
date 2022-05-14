@@ -54,7 +54,7 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 ### Socials
 
 <p align="left">
-    <a href="https://www.github.com/pranavbansal04" target="_blank" rel="noreferrer" margin="20px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+    <a href="https://www.github.com/pranavbansal04" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
     <a href="http://www.instagram.com/pranbansal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/bansal-pranav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
@@ -69,8 +69,10 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 
 <div width="100%" align="center">
 
-  <a href="https://github.com/pranavbansal04/AI-FInal-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbansal04&repo=AI-FInal-Project&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/pranavbansal04/AI-Final-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbansal04&repo=AI-final-project&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
+
   <a href="https://github.com/pranavbansal04/UK-Charities-Network-Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbansal04&repo=UK-Charities-Network-Analysis&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
+
 </div>
 
 <br />
