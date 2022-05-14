@@ -54,7 +54,7 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 ### Socials
 
 <p align="left">
-    <a href="https://www.github.com/pranavbansal04" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+    <a href="https://www.github.com/pranavbansal04" target="_blank" rel="noreferrer" margin-right="20px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
     <a href="http://www.instagram.com/pranbansal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/bansal-pranav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
