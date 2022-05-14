@@ -99,9 +99,9 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 
 
 
-<div width="100%" align="left" color="white">
+<!-- <div width="100%" align="left" color="white">
   <h2 align-"left">Support Me<h2>
-</div>
+</div> -->
 
 
 <a href="https://www.buymeacoffee.com/pranavbansal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
