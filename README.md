@@ -92,19 +92,8 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
 
 
 <div width="100%" align="left" color="white">
