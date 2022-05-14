@@ -71,7 +71,7 @@ Pursuing Masters in Data Science at Northeastern University, Boston. Passionate 
 
 <div width="100%" align="center">
 
-  <a href="https://github.com/pranavbansal04/ai-final-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbansal04&repo=ai-fina-project&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/pranavbansal04/ai-final-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbansal04&repo=ai-final-project&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
 
   <a href="https://github.com/pranavbansal04/UK-Charities-Network-Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbansal04&repo=uk-charities-network-analysis&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
 
